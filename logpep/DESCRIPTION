@@ -1,0 +1,10 @@
+Package: logpep
+Type: Package
+Title: Create Log file in R
+Version: 1.0
+Date: 2017-02-18
+Author: Pep Porra
+Maintainer: Pep Porra <josepmporra@gmail.com>
+Description: Two functions to create a log file and compute times
+    between calls.
+License: GPL-2
